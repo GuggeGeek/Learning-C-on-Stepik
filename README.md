@@ -24,3 +24,10 @@ If you are also studying — feel free to compare solutions, but try to solve it
 Author
 GuggeGeek — student, 8th grade, Russia 
 Started: First May 2026.
+
+
+
+!NOTE! I may skip some tasks if they
+1. Incorrectly set (in this course, the authors do not give you specific tests when an error occurred)
+2. Early learning of the topic
+3. they are intended for an audience older than my age and I cannot solve them within the framework of my knowledge of other sciences
