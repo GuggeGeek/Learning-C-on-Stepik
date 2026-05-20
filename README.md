@@ -22,7 +22,7 @@ Note
 All solutions are my own work written while learning.
 If you are also studying — feel free to compare solutions, but try to solve it yourself first! 💪
 Author
-GuggeGeek — student, 8th grade, Russia 
+GuggeGeek — student, 8th grade, Russia.
 Started: First May 2026.
 
 
