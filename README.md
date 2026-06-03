@@ -7,7 +7,7 @@ About
 I started learning C++ from scratch in May 2026.
 This repository tracks my progress, one commit at a time.
 Course
-Platform: Stepik
+Platform: Stepik.
 Course: C++ (Yandex)
 Structure
 Learning-C-on-Stepik/
